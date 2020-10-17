@@ -27,6 +27,7 @@ _You **can** combine them_
    1. Item 3b
   
  ## images ##
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![GitHub Logo] (/images/logo.png)
 Format: ![Alt Text](url)
 
