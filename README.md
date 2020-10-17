@@ -80,7 +80,7 @@ if (isAwesome){
 }
 ```
 ## Username @mentions
-Typing an @ symbol, followed by a username, will notify that person to come and view the comment.
+Typing an @ symbol, followed by a username, ( @salman079 ) will notify that person to come and view the comment.
 
 ## SHA references
 Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
