@@ -36,7 +36,7 @@ http://github.com - automatic!
 
 ## Blockquotes 
 As Kanye West said:
-> We're living the future so
+> We're living the future so <br>
 > the present is our past.
 
 ## Inline code
