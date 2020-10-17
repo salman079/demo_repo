@@ -55,3 +55,29 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+## SHA references
+Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+## Issue references within a repository
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+Username @mentions
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
+
+## Automatic linking for URLs
+Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
+
+## Strikethrough
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+## Emoji
+GitHub supports emoji!
+To see a list of every image we support, check out the Emoji Cheat Sheet.
