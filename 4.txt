@@ -1,0 +1,2 @@
+this file is ignored
+so it will not be staged through add command and commited
